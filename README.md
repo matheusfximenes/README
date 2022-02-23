@@ -2,6 +2,7 @@
 - 🖥 Acadêmico: Ciência da Computação pela Universidade Estadual Vale do Acaraú - UVA.
 - 🖋 Inicio desta jornada na programação começou 02/2017 e estou em constante aprendizado.
 - ⚡ Curiosidade: Gosto muito de esportes radicais (skate, surf, motobike).
+- 🖋 Meu perfil do URI/beecrowd Desafios de Programação: https://www.beecrowd.com.br/judge/pt/profile/157475
 - 👨‍⚕️ "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" Albert Einstein.
 
   ##
